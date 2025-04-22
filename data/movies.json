@@ -1,0 +1,72 @@
+{
+    "The Shawshank Redemption": {
+        "year": "1994",
+        "rating": 9.3,
+        "poster": "https://example.com/shawshank.jpg"
+    },
+    "the matrix": {
+        "year": "1998",
+        "rating": 7.0,
+        "poster": ""
+    },
+    "they": {
+        "year": "2001",
+        "rating": 7.0,
+        "poster": ""
+    },
+    "the cult": {
+        "year": "1999",
+        "rating": 5.0,
+        "poster": ""
+    },
+    "The Jungle Book": {
+        "year": 2016,
+        "rating": 7.3,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_SX300.jpg"
+    },
+    "Matrix": {
+        "year": 1993,
+        "rating": 7.2,
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2JiZjU1NmQtNjg1Ni00NjA3LTk2MjMtNjYxMTgxODY0NjRhXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "The Matrix": {
+        "year": 1999,
+        "rating": 8.7,
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "Green Book": {
+        "year": 2018,
+        "rating": 8.2,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "Dead Man's Shoes": {
+        "year": 2004,
+        "rating": 7.5,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTI5Mzk1MDc2M15BMl5BanBnXkFtZTcwMjIzMDA0MQ@@._V1_SX300.jpg"
+    },
+    "The Beach": {
+        "year": 2000,
+        "rating": 6.6,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTljNTg1YjktY2I3MS00MmQwLWJkYTAtYzcwZjRjM2ExNDJjXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "Frozen": {
+        "year": 2013,
+        "rating": 7.4,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_SX300.jpg"
+    },
+    "American Pie": {
+        "year": 1999,
+        "rating": 7.0,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_SX300.jpg"
+    },
+    "Meet the Fockers": {
+        "year": 2004,
+        "rating": 6.3,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGI0NDZhODctZWYwNC00ZGZhLTg2N2UtMzdiZjM0OTM4NTY0XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "The B Movie": {
+        "year": 2017,
+        "rating": 0.0,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjIxMzQ2ZDItOGMxMS00NWQ2LTgxNzYtOGUxMDRkNDkxZjdlXkEyXkFqcGdeQXVyMjk1MjE2MDY@._V1_SX300.jpg"
+    }
+}
